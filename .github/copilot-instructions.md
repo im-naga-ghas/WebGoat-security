@@ -7,6 +7,3 @@
 - Least-privilege GITHUB_TOKEN in workflows; pin actions to SHA
 - Log errors without sensitive data
 - Regularly review and update dependencies for security patches
-- Monitor security advisories for the libraries and frameworks in use
-- Conduct regular security testing, including static and dynamic analysis
-- Implement proper access controls and authentication mechanisms
